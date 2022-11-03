@@ -1,4 +1,4 @@
-# Adding a Stamp/Watermark to a PDF
+# Add a Stamp/Watermark to a PDF
 
 Adding stamps or watermarks are two common ways to manipulate PDF files.
 A stamp is adding something on top of the document, a watermark is in the
